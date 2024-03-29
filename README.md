@@ -20,7 +20,5 @@
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@lemonable)](https://velog.io/@lemonable)
 
 
-🏅 Algorithm Gold Level. 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemonable)](https://solved.ac/lemonable/)  
 
