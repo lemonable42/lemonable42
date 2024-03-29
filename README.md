@@ -17,7 +17,7 @@
 🐱 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaehdehd20@gmail.com)](rlaehdehd20@gmail.com)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@lemonable42)](https://velog.io/@lemonable42)
+  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@lemonable)](https://velog.io/@lemonable)
 
 
 🏅 Algorithm Gold Level. 
